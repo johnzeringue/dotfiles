@@ -2,4 +2,6 @@
 	name = John Zeringue
 	email = john.joseph.zeringue@gmail.com
 [push]
-        default = simple
+    default = simple
+[credential]
+	helper = cache
