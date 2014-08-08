@@ -5,7 +5,8 @@ filetype plugin indent on
 
 " solarized
 syntax enable
-set background=dark
+set background=light
+let g:solarized_termcolors=256
 colorscheme solarized
 
 " indentation
